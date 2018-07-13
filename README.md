@@ -6,9 +6,10 @@ This repo is intended to be used for educational purposes
 
 Below is a table of contents of the different subjects and examples covered.
 
+This repo came about as a result of me watching [this](https://www.youtube.com/playlist?list=PLq9Ra239pNZC0MgMN4j6ZiPHv_c0UPnBX) playlist. I compiled all my notes and examples together so I could always come back to it as a point of reference. Maybe you can too one day.
+
+
 # Table of Contents
-
-
 
 ## variables
 
